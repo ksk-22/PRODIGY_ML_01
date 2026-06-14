@@ -65,7 +65,4 @@ The trained model will output:
 - Predictions for sample data
 
 ## Author
-ksk-22
-
-## License
-MIT License
+Korrapati Sai Kamal
